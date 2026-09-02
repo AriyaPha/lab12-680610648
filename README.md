@@ -1,12 +1,10 @@
 # Lab 12: Todo List Mockup (10 pts)
 
-## เริ่มต้น
+ป้อนข้อมูลนักศึกษา
+รหัส นศ.:
 
-```bash
-pnpm install
-pnpm approve-builds
-pnpm run dev
-```
+ชื่อ-สกุล :
+
 
 ## เช็กก่อนส่ง
 
